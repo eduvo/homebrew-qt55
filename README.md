@@ -1,11 +1,11 @@
 # Qt 5.5
 
-Just the removed [qt55](https://github.com/Homebrew/homebrew-core/pull/32565), which required by [capybara-webkit](https://github.com/thoughtbot/capybara-webkit), at least for me...
+A formula to install legacy [qt55](https://github.com/Homebrew/homebrew-core/pull/32565), which required by [capybara-webkit](https://github.com/thoughtbot/capybara-webkit).
 
 ## Installation
 
 ```bash
-git clone https://github.com/Eric-Guo/homebrew-qt55
+git clone https://github.com/eduvo/homebrew-qt55
 cp Formula/qt\@5.5.rb /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/
 brew install qt@5.5
 ```
