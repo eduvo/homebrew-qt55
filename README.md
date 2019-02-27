@@ -2,6 +2,8 @@
 
 A formula to install legacy [qt55](https://github.com/Homebrew/homebrew-core/pull/32565), which required by [capybara-webkit](https://github.com/thoughtbot/capybara-webkit).
 
+Note: School directory is using capybara-webkit for feature testing.
+
 ## Installation
 
 ```bash
